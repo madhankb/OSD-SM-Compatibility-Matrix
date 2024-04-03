@@ -3,12 +3,12 @@
 <table>
   <tr>
     <th nowrap="nowrap">Template/Plugin</th>    
-    <th nowrap="nowrap" align="center" title="🗃️ Base content">🗃️</th>
-    <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">📅</th>
-    <th nowrap="nowrap" align="center" title="🈷️ Languages activity">🈷️</th>
-    <th nowrap="nowrap" align="center" title="✨ Stargazers">✨</th>
-    <th nowrap="nowrap" align="center" title="👨‍💻 Lines of code changed">👨‍💻</th>
-    <th nowrap="nowrap" align="center" title="📌 Starred topics">📌</th>
+    <th nowrap="nowrap" align="center" title="🗃️ Base content">1.3</th>
+    <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">2.3</th>
+    <th nowrap="nowrap" align="center" title="🈷️ Languages activity">2.5</th>
+    <th nowrap="nowrap" align="center" title="✨ Stargazers">2.7</th>
+    <th nowrap="nowrap" align="center" title="👨‍💻 Lines of code changed">2.9</th>
+    <th nowrap="nowrap" align="center" title="📌 Starred topics">2.11</th>
     <th nowrap="nowrap" align="center" title="🌟 Recently starred repositories">🌟</th>
     <th nowrap="nowrap" align="center" title="📜 Repository licenses">📜</th>
     <th nowrap="nowrap" align="center" title="💡 Coding habits and activity">💡</th>
