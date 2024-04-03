@@ -23,7 +23,7 @@
     <td nowrap="nowrap">📘 Repository template</td>    
     <td nowrap="nowrap" align="center" data-plugin="base">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="isocalendar">❌</td>
-    <td nowrap="nowrap" align="center" data-plugin="languages">✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin="languages">✅</td>
     <td nowrap="nowrap" align="center" data-plugin="stargazers">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="lines">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="topics">❌</td>
