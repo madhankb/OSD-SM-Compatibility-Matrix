@@ -65,7 +65,7 @@
     <td nowrap="nowrap" align="center" data-plugin="topics">✔️</td>
   </tr>
   <tr>
-    <td colspan="45"></td>
+    <td colspan="70"></td>
   </tr>
 </table>
 
