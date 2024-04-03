@@ -3,12 +3,12 @@
 <table>
   <tr>
     <th nowrap="nowrap"></th>    
-    <th nowrap="nowrap" align="center" title="🗃️ Base content">1.3</th>
-    <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">2.3</th>
-    <th nowrap="nowrap" align="center" title="🈷️ Languages activity">2.5</th>
-    <th nowrap="nowrap" align="center" title="✨ Stargazers">2.7</th>
-    <th nowrap="nowrap" align="center" title="👨‍💻 Lines of code changed">2.9</th>
-    <th nowrap="nowrap" align="center" title="📌 Starred topics">2.11</th>
+    <th nowrap="nowrap" align="center" title="🗃️ Base content">OSD 1.3</th>
+    <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">OSD 2.3</th>
+    <th nowrap="nowrap" align="center" title="🈷️ Languages activity">OSD 2.5</th>
+    <th nowrap="nowrap" align="center" title="✨ Stargazers">OSD 2.7</th>
+    <th nowrap="nowrap" align="center" title="👨‍💻 Lines of code changed">OSD 2.9</th>
+    <th nowrap="nowrap" align="center" title="📌 Starred topics">OSD 2.11</th>
   </tr>  
   <tr>
     <td nowrap="nowrap"> AOS 1.3 </td>    
