@@ -14,7 +14,7 @@
     <td nowrap="nowrap">📗 Classic template</td>    
     <td nowrap="nowrap" align="center" data-plugin="base">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="isocalendar">✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin="languages"><span style="color:green;">✔️</span></td>
+    <td nowrap="nowrap" align="center" data-plugin="languages"><font color="green">&#10004;</font></td>
     <td nowrap="nowrap" align="center" data-plugin="stargazers">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="lines">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="topics">✔️</td>
