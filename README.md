@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th nowrap="nowrap">Template/Plugin</th>    
+    <th nowrap="nowrap"></th>    
     <th nowrap="nowrap" align="center" title="🗃️ Base content">1.3</th>
     <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">2.3</th>
     <th nowrap="nowrap" align="center" title="🈷️ Languages activity">2.5</th>
