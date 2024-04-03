@@ -97,7 +97,7 @@
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
     <td nowrap="nowrap"> SM-OSD 2.3 </td>    
