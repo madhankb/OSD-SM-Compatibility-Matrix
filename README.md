@@ -1,4 +1,4 @@
-# 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix [Version Upgrade B/G]
+# 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix [During Version Upgrade B/G]
 
 <table>
   <tr>
