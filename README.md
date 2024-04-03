@@ -1,4 +1,4 @@
-# :heavy_check_mark: Self-managed dashboards vs aws managed service compatibility matrix
+# 🔰 Self-managed dashboards vs aws managed service compatibility matrix
 
 <table>
   <tr>
