@@ -40,38 +40,38 @@
   <tr>
     <td nowrap="nowrap"> AOS 2.7 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
     <td nowrap="nowrap"> AOS 2.9 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
     <td nowrap="nowrap"> AOS 2.11 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
     <tr>
     <td nowrap="nowrap"> AOS 2.13 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✓</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
     <td colspan="70"></td>
