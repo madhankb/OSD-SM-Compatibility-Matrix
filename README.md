@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th nowrap="nowrap"></th>    
-    <th nowrap="nowrap" align="center" title="🗃️ Base content">OSD 1.3</th>
+    <th nowrap="nowrap" align="center" title="">OSD 1.3</th>
     <th nowrap="nowrap" align="center" title="📅 Isometric commit calendar">OSD 2.3</th>
     <th nowrap="nowrap" align="center" title="🈷️ Languages activity">OSD 2.5</th>
     <th nowrap="nowrap" align="center" title="✨ Stargazers">OSD 2.7</th>
