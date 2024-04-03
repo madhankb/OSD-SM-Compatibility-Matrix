@@ -71,7 +71,7 @@
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
     <td colspan="70"></td>
