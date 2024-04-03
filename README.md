@@ -78,7 +78,6 @@
   </tr>
 </table>
 
----------------------------------------------------------------------------------------------
 
 # 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix [Initial Setup]
 
