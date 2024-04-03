@@ -1,4 +1,4 @@
-# 🧰 Self-managed dashboards vs aws managed service compatibility matrix
+# :cheat-code: Self-managed dashboards vs aws managed service compatibility matrix
 
 <table>
   <tr>
