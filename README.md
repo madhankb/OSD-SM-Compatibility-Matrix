@@ -1,4 +1,4 @@
-# 🧰 Template/Plugin compatibility matrix
+# 🧰 Self-managed dashboards vs aws managed service compatibility matrix
 
 <table>
   <tr>
