@@ -22,7 +22,7 @@
   <tr>
     <td nowrap="nowrap"> AOS 2.3 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✖️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✅</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
