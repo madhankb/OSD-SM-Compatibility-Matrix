@@ -18,7 +18,6 @@
     <td nowrap="nowrap" align="center" data-plugin="stargazers">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="lines">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="topics">✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin="stars">✔️</td>
   </tr>
   <tr>
     <td nowrap="nowrap">📘 Repository template</td>    
