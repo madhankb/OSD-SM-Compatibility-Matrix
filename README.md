@@ -11,7 +11,7 @@
     <th nowrap="nowrap" align="center" title="📌 Starred topics">2.11</th>
   </tr>  
   <tr>
-    <td nowrap="nowrap">📗 Classic template</td>    
+    <td nowrap="nowrap"> AOS 1.3 </td>    
     <td nowrap="nowrap" align="center" data-plugin="base">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="isocalendar">✔️</td>
     <td nowrap="nowrap" align="center" data-plugin="languages"><font color="green">&#10004;</font></td>
