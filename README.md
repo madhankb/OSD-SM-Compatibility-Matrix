@@ -1,4 +1,4 @@
-# :cheat-code: Self-managed dashboards vs aws managed service compatibility matrix
+# :heavy_check_mark: Self-managed dashboards vs aws managed service compatibility matrix
 
 <table>
   <tr>
@@ -12,7 +12,7 @@
   </tr>  
   <tr>
     <td nowrap="nowrap"> AOS 1.3 </td>    
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>✔</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
     <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
