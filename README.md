@@ -1,4 +1,4 @@
-# 🎯 Self-managed dashboards vs aws managed service compatibility matrix
+# 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix
 
 <table>
   <tr>
