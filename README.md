@@ -73,9 +73,6 @@
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
-  <tr>
-    <td colspan="100"></td>
-  </tr>
 </table>
 
 # 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix [Direct Connect]
