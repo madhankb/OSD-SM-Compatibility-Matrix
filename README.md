@@ -1,4 +1,4 @@
-# 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix during B/G
+# 🎯 Self-Managed Dashboards with AWS Managed Service: Compatibility Matrix [BlueGreen]
 
 <table>
   <tr>
