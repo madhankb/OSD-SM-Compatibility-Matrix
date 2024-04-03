@@ -74,6 +74,6 @@
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
-    <td colspan="70"></td>
+    <td colspan="100"></td>
   </tr>
 </table>
