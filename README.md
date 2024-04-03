@@ -90,10 +90,10 @@
   <tr>
     <td nowrap="nowrap"> SM-OSD 1.3 </td>    
     <td nowrap="nowrap" align="center" data-plugin=>✔</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
-    <td nowrap="nowrap" align="center" data-plugin=>✔️</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
+    <td nowrap="nowrap" align="center" data-plugin=>❌</td>
     <td nowrap="nowrap" align="center" data-plugin=>❌</td>
   </tr>
   <tr>
