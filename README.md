@@ -80,12 +80,12 @@
 <table>
   <tr>
     <th nowrap="nowrap"></th>    
-    <th nowrap="nowrap" align="center" title="">AOS 1.3</th>
-    <th nowrap="nowrap" align="center" title="">AOS 2.3</th>
-    <th nowrap="nowrap" align="center" title="">AOS 2.5</th>
-    <th nowrap="nowrap" align="center" title="">AOS 2.7</th>
-    <th nowrap="nowrap" align="center" title="">AOS 2.9</th>
-    <th nowrap="nowrap" align="center" title="">AOS 2.11</th>
+    <th nowrap="nowrap" align="center" title="">AOS-1.3</th>
+    <th nowrap="nowrap" align="center" title="">AOS-2.3</th>
+    <th nowrap="nowrap" align="center" title="">AOS-2.5</th>
+    <th nowrap="nowrap" align="center" title="">AOS-2.7</th>
+    <th nowrap="nowrap" align="center" title="">AOS-2.9</th>
+    <th nowrap="nowrap" align="center" title="">AOS-2.11</th>
   </tr>  
   <tr>
     <td nowrap="nowrap"> SM-OSD-1.3 </td>    
