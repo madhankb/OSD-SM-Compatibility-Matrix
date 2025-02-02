@@ -1,4 +1,4 @@
-# 🎯 Self-Managed Dashboards[SM-OSD] with AWS Managed Service[AOS]: Compatibility Matrix [During Version Upgrade B/G]
+# 🎯 Self-Managed Dashboards[SM-OSD] with AWS Managed Service[AOS]: Compatibility Matrix [During Version Upgrade B/G
 
 <table>
   <tr>
